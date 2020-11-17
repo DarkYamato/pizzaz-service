@@ -8,7 +8,7 @@
 
 # api routes
 
-## menu
+## Menu
 
 ### get menu
 returns the available menu
@@ -59,13 +59,13 @@ example response
 }
 ```
 
-## order
+## Order
 
 ### create order
-remove all menu items
+create order
 
 ```http
-POST /api/menu/clear
+POST /api/order
 ```
 
 request
