@@ -181,7 +181,7 @@ example response:
 ### current user
 return info about current user
 ```http
-get /api/auth/currentUser
+GET /api/auth/currentUser
 ```
 
 request:
